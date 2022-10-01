@@ -1,0 +1,45 @@
+.text {
+  font-weight: bold;
+  margin-left: 40px;
+  font-size: 30px;
+  width: 60px;
+  height: 50px;
+  position: relative;
+  bottom: 39px;
+  font-family: 'Zing Rust Demo Base';
+}
+
+.centr1{
+  text-align: center;
+  font-family: 'Zing Rust Demo Base';
+}
+
+.fotoegor{
+  display:block;
+  margin:auto;
+}
+
+.fotocar{
+  display:block;
+  margin:auto;
+  height:50px;
+}
+
+.centr2{
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-family: 'Zing Rust Demo Base';
+}
+
+.centr2txt{
+  text-align: center;
+  position: relative;
+  top: 60px;
+  font-family: 'Pragmatica Italic';
+}
+
+.stroi{
+  display:block;
+  margin:auto;
+}
